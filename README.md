@@ -1,2 +1,2 @@
 # Thesis
-the code of thesis
+Code files used in graduation thesis
